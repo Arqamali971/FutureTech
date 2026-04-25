@@ -1,0 +1,22 @@
+export const customers = [
+  { cnicNumber: "42101-7654301-2", customerName: "Customer 1" },
+  { cnicNumber: "42101-7654302-3", customerName: "Customer 2" },
+  { cnicNumber: "42101-7654303-4", customerName: "Customer 3" },
+  { cnicNumber: "42101-7654304-5", customerName: "Customer 4" },
+  { cnicNumber: "42101-7654305-6", customerName: "Customer 5" },
+  { cnicNumber: "42101-7654306-7", customerName: "Customer 6" },
+  { cnicNumber: "42101-7654307-8", customerName: "Customer 7" },
+  { cnicNumber: "42101-7654308-9", customerName: "Customer 8" },
+  { cnicNumber: "42101-7654309-1", customerName: "Customer 9" },
+  { cnicNumber: "42101-7654310-2", customerName: "Customer 10" },
+  { cnicNumber: "42101-7654311-3", customerName: "Customer 11" },
+  { cnicNumber: "42101-7654312-4", customerName: "Customer 12" },
+  { cnicNumber: "42101-7654313-5", customerName: "Customer 13" },
+  { cnicNumber: "42101-7654314-6", customerName: "Customer 14" },
+  { cnicNumber: "42101-7654315-7", customerName: "Customer 15" },
+  { cnicNumber: "42101-7654316-8", customerName: "Customer 16" },
+  { cnicNumber: "42101-7654317-9", customerName: "Customer 17" },
+  { cnicNumber: "42101-7654318-1", customerName: "Customer 18" },
+  { cnicNumber: "42101-7654319-2", customerName: "Customer 19" },
+  { cnicNumber: "42101-7654320-3", customerName: "Customer 20" }
+];
